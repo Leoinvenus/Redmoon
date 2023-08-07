@@ -1,0 +1,9 @@
+:root{
+    --cor-de-fundo: #880C0C;
+    --cor-cabeçalho: #880C0C;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    margin: 0;
+}
